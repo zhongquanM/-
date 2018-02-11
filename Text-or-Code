@@ -1,1 +1,2 @@
-
+wx:if="" // 当有空格时 条件成立 ；
+swiper组件  若要禁止微信原生的滑动切换， 在swiper-item元素上添加catchtap="Stop"阻止冒泡事件；

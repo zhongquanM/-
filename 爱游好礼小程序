@@ -1,0 +1,4 @@
+1、wx.request 用 promise 封装
+2、设置config.js文件  配置接口域名， 当有上传图片时 调用wx.uploadFile 引入域名，达成统一
+3、"navigationStyle": "custom"  自定义头部导航 可以做回到首页功能； 目前发现不好的地方: 下拉刷新时会跟随下拉，同时也看不到加载的三个点的动画
+4、可以预先设置一个页面模板

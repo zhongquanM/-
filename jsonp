@@ -70,3 +70,14 @@ const ajaxJsonp = function () {
 module.exports = {
   ajaxJsonp
 }
+// ajaxJsonp.ajax({
+//   url: "",
+//   jsonp: "jsonpCallback",
+//   data: {
+//  
+//   },
+//   success: function(res) {
+//     console.log(res);
+//   },
+//   error: function(error) {}
+// });
